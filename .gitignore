@@ -1,0 +1,15 @@
+# Model files
+models/
+*.bin
+*.ggml
+*.ggmlv3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# OS specific
+.DS_Store
